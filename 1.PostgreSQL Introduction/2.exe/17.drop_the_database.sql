@@ -1,0 +1,2 @@
+DROP DATABASE miniond_db WITH (FORCE)
+;
